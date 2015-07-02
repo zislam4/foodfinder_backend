@@ -1,0 +1,20 @@
+{
+  "name": "Food-Finder-Server",
+"description": "Stores events to send to front end",
+"readme":"README.txt",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "latest",
+    "mongodb": "latest",
+    "body-parser": "latest",
+    "validator": "latest",
+    "chrono-node": "latest",
+    "mongoose": "~4.0.1",
+    "moment": "latest",
+    "sendgrid": "1.0.4",
+    "node-schedule": "latest"
+  },
+  "engines": {
+    "node": "0.10.x"
+  }
+}
